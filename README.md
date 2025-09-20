@@ -265,10 +265,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For support and questions:
-- Email: support@surakshapay.com
-- Phone: 1800-123-4567
-- Documentation: [Link to docs]
-
+- Email: keerat.jeet@bcah.christuniversity.in
+- Phone: 7800153125
 ---
 
 **SurakshaPay** - Making secure payments accessible to everyone through voice commands and AI-powered fraud detection. 🛡️💬
