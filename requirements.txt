@@ -1,0 +1,18 @@
+# Flutter Dependencies (already in pubspec.yaml)
+# This file is for Python microservices
+
+# Fraud Detection Service
+Flask==2.3.3
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Streamlit Dashboard
+streamlit==1.28.1
+pandas==2.1.1
+plotly==5.17.0
+supabase==2.0.2
+
+# Additional utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
